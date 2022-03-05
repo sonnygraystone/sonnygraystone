@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+https://kiwikickz.herokuapp.com/
+https://github.com/sonnygraystone/kiwikickz
+https://github.com/sonnygraystone/show-me-the-money
+https://github.com/sonnygraystone/spotifyjam
+
 <!--
 **sonnygraystone/sonnygraystone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
