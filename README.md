@@ -14,6 +14,4 @@ https://kiwikickz.herokuapp.com/
 <br />
 https://github.com/sonnygraystone/kiwikickz
 <br />
-https://github.com/sonnygraystone/show-me-the-money
-<br />
 https://github.com/sonnygraystone/spotifyjam
